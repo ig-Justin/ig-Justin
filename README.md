@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ig-Justin
+- 👋 Hi, I’m @Justin66
 - 👀 I’m interested in coding & programming
 - 🌱 I’m currently learning Bachelors On Computer Application
 - 💞️ I’m looking to collaborate on ...
